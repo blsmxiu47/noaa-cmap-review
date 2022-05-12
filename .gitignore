@@ -1,0 +1,5 @@
+# Raw Data Files
+downloads/
+
+# Virtual Environments
+nc4_env/
