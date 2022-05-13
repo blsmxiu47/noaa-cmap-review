@@ -1,1 +1,2 @@
+python-dotenv==0.20.0
 netCDF4==1.5.8

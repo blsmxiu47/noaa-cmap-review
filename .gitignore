@@ -3,3 +3,6 @@ downloads/
 
 # Virtual Environments
 nc4_env/
+
+# Local Environment Variables
+.env
